@@ -53,8 +53,8 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](https://github.com/unlimitedbullet/masachika/blob/main/assets/images/logo-150.png)
+![image](https://github.com/unlimitedbullet/masachika/blob/main/assets/images/logo-150.png?raw=true)
 # 叶（にじさんじ)
-<img src="https://github.com/unlimitedbullet/masachika/blob/main/assets/images/channels4_profile.jpg" width=400px>
+<img src="https://github.com/unlimitedbullet/masachika/blob/main/assets/images/channels4_profile.jpg?raw=true" width=400px>
 
 
