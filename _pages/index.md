@@ -27,7 +27,6 @@ permalink: /
 3. paizaSクラス
 ###### 見出し6
 
-![image](https://www.google.co.jp/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCspv01oxUFf_MTSipURRhkA&psig=AOvVaw2pIr593VU-fJN8NnopRmTl&ust=1683110147126000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCIDYkoa41v4CFQAAAAAdAAAAABAP)  
 改行は、行末に半角スペースを2個いれる
 次の行
 
@@ -55,4 +54,5 @@ permalink: /
 | 内容  | 内容  |
 
 ![image](/GHPages_WebSite/assets/images/logo-150.png)
+![image](https://www.google.co.jp/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCspv01oxUFf_MTSipURRhkA&psig=AOvVaw2pIr593VU-fJN8NnopRmTl&ust=1683110147126000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCIDYkoa41v4CFQAAAAAdAAAAABAP)
 ![image](https://www.google.co.jp/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCspv01oxUFf_MTSipURRhkA&psig=AOvVaw2pIr593VU-fJN8NnopRmTl&ust=1683110147126000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCIDYkoa41v4CFQAAAAAdAAAAABAP)
