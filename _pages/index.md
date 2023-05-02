@@ -55,6 +55,6 @@ permalink: /
 
 ![image](https://github.com/unlimitedbullet/masachika/blob/main/assets/images/logo-150.png)
 # 叶（にじさんじ
-<img src="https://github.com/unlimitedbullet/masachika/blob/main/assets/images/channels4_profile.jpg">
+<img src="https://github.com/unlimitedbullet/masachika/blob/main/assets/images/channels4_profile.jpg" width=400px>
 
 
