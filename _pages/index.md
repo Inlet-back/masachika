@@ -27,7 +27,7 @@ permalink: /
 3. paizaSクラス
 ###### 見出し6
 
-//改行は、行末に半角スペースを2個いれる
+改行は、行末に半角スペースを2個いれる
 次の行
 
 [リンク](https://www.google.co.jp/)
@@ -54,7 +54,7 @@ permalink: /
 | 内容  | 内容  |
 
 ![image](https://github.com/unlimitedbullet/masachika/blob/main/assets/images/logo-150.png)
-
+#叶（にじさんじ
 ![image](https://github.com/unlimitedbullet/masachika/blob/main/assets/images/channels4_profile.jpg)
 
 
