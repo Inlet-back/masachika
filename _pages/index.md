@@ -17,13 +17,14 @@ permalink: /
 ## 好きなこと
 - ゲーム   Apex,Valolant,スプラ等
 - 漫画、アニメ　チェンソーマン、地獄楽、Fateシリーズ
-- 音楽    ヨルシカ、Aimer,ピーナッツ君
+- 音楽      ヨルシカ、Aimer,ピーナッツ君
 - Youtube　にじさんじ（叶、葛葉）、ストリーマー全般（Ksen,スタン、3bro)
 ### 所属サークル　Felice
-#### 見出し4
-##### 見出し5
+### プログラミング初心者
+#### これからやりたいこと
+1. ネットワークセキュリティ関連　　1.資格取得(情報安全
 ###### 見出し6
-
+![image](https://www.google.co.jp/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCspv01oxUFf_MTSipURRhkA&psig=AOvVaw2pIr593VU-fJN8NnopRmTl&ust=1683110147126000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCIDYkoa41v4CFQAAAAAdAAAAABAP)
 改行は、行末に半角スペースを2個いれる
 次の行
 
