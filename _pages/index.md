@@ -1,17 +1,17 @@
 ---
-title: "urapages"
+title: "Masachika Ura"
 author: default
 permalink: /
 ---
 
 
-# あんりみてっど
+# 名前：うら
 ## 好きなこと
 - ゲーム   Apex,Valolant,スプラ等
 - 漫画、アニメ　チェンソーマン、地獄楽、Fateシリーズ
 - 音楽      ヨルシカ、Aimer,ピーナッツ君
-- Youtube　にじさんじ（**叶**、葛葉）、ストリーマー全般（Ksen,スタン、3bro)
-### 所属サークル　Felice
+- Youtube　にじさんじ（**叶**、葛葉）、ストリーマー全般（K4sen,スタンミ、3bro等)
+
 ### プログラミング初心者
 #### これからやりたいこと
 1. ネットワークセキュリティ関連
@@ -19,7 +19,6 @@ permalink: /
 3. paizaSクラス
 
 
-![image](https://github.com/unlimitedbullet/masachika/blob/main/assets/images/logo-150.png?raw=true)
 # 叶（にじさんじ)
 <img src="https://github.com/unlimitedbullet/masachika/blob/main/assets/images/channels4_profile.jpg?raw=true" width=400px>
 
