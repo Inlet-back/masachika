@@ -1,6 +1,6 @@
 default:
   name: "浦正親"
-  avatar: "/assets/images/icons/myIcon.png"
+  avatar: "/assets/images/icons/myIcon.jpg"
   bio: "KITHUBで行われた勉強会の参加者です。"
   links:
     - label: "Twitter"
