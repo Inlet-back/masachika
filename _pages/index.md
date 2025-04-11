@@ -1,4 +1,9 @@
 ---
+title: "urapages"
+author: default
+permalink: /
+---
+
 
 # あんりみてっど
 ## 好きなこと
