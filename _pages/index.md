@@ -1,3 +1,8 @@
+---
+title: "Masachika Ura"
+author: default
+permalink: /
+---
 
 
 # 名前：うら
