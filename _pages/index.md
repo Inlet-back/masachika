@@ -18,11 +18,12 @@ permalink: /
 2. 資格取得(**情報安全確保支援士**)
 3. paizaSクラス
 
+## 推し
 
-# 叶（にじさんじ)
+#### [叶（にじさんじ)](https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA)
 <img src="https://github.com/unlimitedbullet/masachika/blob/main/assets/images/channels4_profile.jpg?raw=true" width=400px>
 
 
-[ Youtube](https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA)
+
 
 
