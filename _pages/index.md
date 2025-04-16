@@ -22,7 +22,8 @@ permalink: /
 
 #### [叶（にじさんじ)](https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA)
 
-<img src="https://github.com/unlimitedbullet/masachika/blob/main/assets/images/channels4_profile.jpg" width=400px>
+
+<img src="https://github.com/unlimitedbullet/masachika/blob/main/assets/images/channels4_profile.jpg?raw=true" width=400px>
 
 
 
